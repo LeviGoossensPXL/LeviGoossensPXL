@@ -6,7 +6,7 @@ Languages:
 - C#: used heavily for school, schoolproject for real life client and a little at home.
 - Java: a bit of experience making small minecraft plugins.
 - SQL: used heavily in school for database.
-- Rust: learning and used for solving coding challenges from https://projecteuler.net/ 
-- JavaScipt [Vue]: used in school for websites
+- Rust: learning and used for solving coding challenges from (https://projecteuler.net/).
+- JavaScipt [Vue]: used in school for websites.
 - HTML: used in school for websites.
 - CSS: used in school for websites.
