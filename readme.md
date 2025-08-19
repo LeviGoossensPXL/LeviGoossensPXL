@@ -10,3 +10,4 @@ Languages:
 - JavaScipt [Vue]: used in school for websites.
 - HTML: used in school for websites.
 - CSS: used in school for websites.
+- C++: used for programming Arduino.
