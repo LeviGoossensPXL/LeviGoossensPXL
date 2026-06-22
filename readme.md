@@ -23,3 +23,7 @@ Learning:
 - linux and computer infrastructure
 - arduino
 - java game in LWJGL
+
+Links:
+i migrated my personal projects to codeberg and thus my projects are most up to date there:
+https://codeberg.org/levig
