@@ -2,7 +2,7 @@
 
 
 Studies:
-- Graduate in Programming 09/2024-2026
+- Graduate in Programming 09/2024-06/2026
 
 Languages:
 
@@ -17,13 +17,17 @@ Languages:
 ![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 
 Interested in:
-electronics, games, automation
+electronics, games, automation, all siences
 
 Learning:
-- linux and computer infrastructure
 - arduino
 - java game in LWJGL
 
+other sites:  
+[tryhackme.com](https://tryhackme.com/p/levi.goossens)  
+[boot.dev](https://www.boot.dev/u/buoyantpractice56)
+
 Links:
-i migrated my personal projects to codeberg and thus my projects are most up to date there:
-https://codeberg.org/levig
+i migrated my personal projects to codeberg and thus my projects are most likely up to date there:
+[codeberg.org](https://codeberg.org/levig).
+some are mirrored to this github though.
