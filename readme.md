@@ -16,17 +16,13 @@ Languages:
 ![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 
 Interested in:
-electronics, games, automation, all siences
+electronics, games, automation, AI, lots of different siences
 
 Learning:
-- arduino
+- RabbitMQ
 - java game in LWJGL
 
 other sites:  
 [tryhackme.com](https://tryhackme.com/p/levi.goossens)  
 [boot.dev](https://www.boot.dev/u/buoyantpractice56)
-
-Links:
-i migrated my personal projects to codeberg and thus my projects are most likely up to date there:
 [codeberg.org](https://codeberg.org/levig).
-some are mirrored to this github though.
